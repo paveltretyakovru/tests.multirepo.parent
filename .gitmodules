@@ -1,0 +1,3 @@
+[submodule "tests.multirepo.child"]
+	path = tests.multirepo.child
+	url = https://github.com/paveltretyakovru/tests.multirepo.child
